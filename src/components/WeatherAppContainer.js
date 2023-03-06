@@ -33,12 +33,12 @@ const WeatherAppContainer = () => {
             className="search"
             placeholder="Search Location..."
           />
-          <button type="submit" className="btn-submit">
+          <button type="submit" className="submit">
             <i className="fas fa-search"></i>
           </button>
           <ul className="cities">
             <li className="city">New York</li>
-            <li className="city">California</li>
+            <li className="city">London</li>
             <li className="city">Abuja</li>
             <li className="city">Lagos</li>
           </ul>
