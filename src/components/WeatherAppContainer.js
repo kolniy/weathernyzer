@@ -78,7 +78,6 @@ const WeatherAppContainer = ({ weatherData, getWeatherData }) => {
         }
       } else {
         setBackgroundImage(dayBackgroundImage2);
-        setBackgroundImage("#d72aa");
         if (timeOfDay === "night") {
           setBtnBackground("#1b1b1b");
         }
