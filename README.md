@@ -1,4 +1,4 @@
-# Getting Started with Recipefy
+# Getting Started with Weathernyzer
 
 ## Project Specifications
 
